@@ -1,3 +1,3 @@
 # Registration Form Assignment
 
-## Web Fundementals
+## Web Fundamentals
